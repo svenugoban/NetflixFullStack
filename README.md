@@ -1,2 +1,2 @@
 
-NetflixFullStack using reactjs and nodejs +JWT
+NetflixFullStack using MERN Stack +JWT
